@@ -11,7 +11,7 @@
 
 - 📫 Bana bu mail adresinden ulaşabilirsin **nuhgnc1@gmail.com**
 
-<h3 align="left">Bana ulaş:</h3>
+<h3 align="left"></h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/nuh-genc-76879b163/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/nuh-genc-76879b163/" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/https://stackoverflow.com/users/18135583/nuhgnc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/18135583/nuhgnc" height="30" width="40" /></a>
