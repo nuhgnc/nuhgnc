@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nuhgnc&label=Profile%20views&color=0e75b6&style=flat" alt="nuhgnc" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nuhgnc" alt="nuhgnc" /></a> </p>
+
 
 - 🌱 Şuanda öğrendiğim teknolojiler **nodejs, restapi, graphql, no-sql, sql**
 
