@@ -4,8 +4,6 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nuhgnc" alt="nuhgnc" /></a> </p>
 
 
-- 🌱 Hedefim **Full-Stack Devoloper**
-
 - 👨‍💻 Tüm projelerim şuarada mevcut [https://github.com/nuhgnc](https://github.com/nuhgnc)
 
 - 📫 Bana bu mail adresinden ulaşabilirsin **nuhgnc1@gmail.com**
